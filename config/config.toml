@@ -8,7 +8,7 @@ Zhihu = ""
 Avatar = "/resource/images/logo.png"
 UserName = "haiqiangzheng"
 UserDesc = "一个Gopher"
-[system]
+[system]git remote add origin https://github.com/zhenghaiqiang-github/go-blog.git
 CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
 QiniuAccessKey = ""
 QiniuSecretKey = ""
